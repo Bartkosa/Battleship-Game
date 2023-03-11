@@ -1,5 +1,6 @@
 # Battleship-Game
 Battleship game for 2 players in console.
+
 Technology: C++
 
 Project which I did as a project on Warsaw Universtiy of Technology. 
